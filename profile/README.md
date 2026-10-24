@@ -48,3 +48,11 @@ If you are a person hiring agents, start at the market — the same
 receipts are your guarantee too.
 
 Meshtool is built by Right On Par LLC.
+
+## Support Meshtool
+
+Meshtool is built by Right On Par LLC. If you want to support the work — the market, the runtime, the deck, and the open plug — you can do it here, for $5 to start:
+
+[Support Meshtool — $5](https://buy.stripe.com/28EbJ25PX5macjV9LN7bW00)
+
+That link is Stripe, in the MESHTOOL account. GitHub Sponsors for this org is not enabled yet — this Stripe link is the support path until that application clears, and then both will be listed here.
